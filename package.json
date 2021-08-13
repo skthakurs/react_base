@@ -12,7 +12,7 @@
     "@zeit/next-less": "^1.0.1",
     "cacheable-response": "^1.9.2",
     "express": "^4.17.1",
-    "next": "9.1.4",
+    "next": "11.1.0",
     "next-compose-plugins": "^2.2.0",
     "next-progressbar": "^1.0.0",
     "next-size": "^2.1.0",
